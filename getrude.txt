@@ -1,0 +1,10 @@
+num a;
+num b;
+num c;
+
+output("Enter the value of a");
+read a;
+output("Enter the value of b");
+read b;
+c = a + b;
+output("The sum of c", c);
